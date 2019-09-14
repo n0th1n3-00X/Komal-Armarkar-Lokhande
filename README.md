@@ -1,11 +1,11 @@
 ## Summary
 
- I have worked at Qualys https://www.qualys.com/, a leading provider of information security and compliance cloud solutions. As a "Policy Compliance QA Engineer" my role was to make sure codes in "QualysGuard Policy Compliance tool"  could identify and audit all non-compliant security settings in various IT Systems.
+ I have worked at [Qualys](https://www.qualys.com/) , a leading provider of information security and compliance cloud solutions. As a "Policy Compliance QA Engineer" my role was to make sure codes in "QualysGuard Policy Compliance tool"  could identify and audit all non-compliant security settings in various IT Systems.
 
-Prior to Qualys, I was helping Mithi Software Technologies https://www.mithi.com/, a Email Product Firm with Administration, Configuration and Maintainence of their Linux and AWS servers.
+Prior to Qualys, I was helping [Mithi Software Technologies](https://www.mithi.com/) , a Email Product Firm with Administration, Configuration and Maintainence of their Linux and AWS servers.
 
-Being a Security Enthusiast, I'm currently honing my skills for Application Security Testing and Research. I have been acknowledged by NCIIPC( a unit of NTRO, India ) https://drive.google.com/file/d/1WiqFy5NNutO1KSjeNJP-DXMG4UhBanxL/view?usp=sharing, Bugcrowd https://drive.google.com/file/d/1t7j7UYMbIK5JuG5H_DS1MIXrqr1hz9aj/view?usp=sharing, Underarmour https://drive.google.com/file/d/1LlCGOGeeSGlUOkE4bleGinGnCXM-rlw6/view?usp=sharing, Moneytree https://drive.google.com/file/d/1GXGWpPySDf3EgFqCRzgVDA-tQlMT8pCZ/view?usp=sharing, Pantheon https://drive.google.com/file/d/1fnIx7G3c3QDTkZ8--Lotr_uE6jesK9rb/view?usp=sharing, Caviar, Mailgun https://drive.google.com/file/d/1ZTFc7dpgUqTF0uixpnrZElj51k94gIGn/view?usp=sharing for finding security vulnerabilities in their products.
-[bugcrowd.com/Infosec_Komal](https://bugcrowd.com/Infosec_Komal)
+Being a Security Enthusiast, I'm currently honing my skills for Application Security Testing and Research. I have been acknowledged by [NCIIPC ( a unit of NTRO, India )](https://drive.google.com/file/d/1WiqFy5NNutO1KSjeNJP-DXMG4UhBanxL/view?usp=sharing) , [Bugcrowd](https://drive.google.com/file/d/1t7j7UYMbIK5JuG5H_DS1MIXrqr1hz9aj/view?usp=sharing) , [Underarmour](https://drive.google.com/file/d/1LlCGOGeeSGlUOkE4bleGinGnCXM-rlw6/view?usp=sharing) , [Moneytree](https://drive.google.com/file/d/1GXGWpPySDf3EgFqCRzgVDA-tQlMT8pCZ/view?usp=sharing) , [Pantheon](https://drive.google.com/file/d/1fnIx7G3c3QDTkZ8--Lotr_uE6jesK9rb/view?usp=sharing) , Caviar, [Mailgun](https://drive.google.com/file/d/1ZTFc7dpgUqTF0uixpnrZElj51k94gIGn/view?usp=sharing)  for finding security vulnerabilities in their products.
+Bugcrowd Profile : [bugcrowd.com/Infosec_Komal](https://bugcrowd.com/Infosec_Komal)
 
 I'm familiar with the concepts of Linux Security like PAM, setuid & setgid, ACLs, auditd, firewalld &  iptables, AIDE and have some hands-on experience in bash shell scripting. You can find some of my work here. I have worked on OS like Linux, Debian, Windows.
 
